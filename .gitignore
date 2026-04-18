@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+tmp_env/
+venv/
+env/
+.venv/
+
+# Node.js
+node_modules/
+src/esprima/node_modules/
+
+# Logs
+*.log
+crx_record.log
+
+# Analysis output
+extracted/
+results_tmp.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/settings.local.json
