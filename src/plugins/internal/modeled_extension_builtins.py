@@ -413,7 +413,13 @@ extension_data_source_no_attack = [
 "jQuery_post_source",
 "fetch_source",
 "XMLHttpRequest_responseText_source",
-"XMLHttpRequest_responseXML_source"
+"XMLHttpRequest_responseXML_source",
+# WebView Android bridge sources
+"webview_name_source",
+"webview_contact_source",
+"webview_location_source",
+"webview_data_source",
+"android_data_source",
 ]
 
 extension_data_out = [
@@ -427,7 +433,12 @@ extension_data_out = [
     "localStorage_remove_sink",
     "localStorage_setItem_key",
     "localStorage_setItem_value",
-    "document_execCommand_sink"
+    "document_execCommand_sink",
+    # WebView Android bridge sinks
+    "bridge_sendName_sink",
+    "bridge_sendMessage_sink",
+    "bridge_sendContacts_sink",
+    "android_showData_sink",
 ]
 # invalid: document_eventListener_scroll, document_eventListener_click, cs_window_eventListener_click, cs_window_eventListener_scroll
 
