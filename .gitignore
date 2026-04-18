@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+env/
+pip-wheel-metadata/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+logs/
+
+# Extracted APK contents
+extracted/
+
+# Temporary files
+tmp_env/
+*.tmp
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# APK files in benchmark_apps (keep sources/ subdirectory)
+benchmark_apps/*.apk
+
+# Build artifacts
+*.class
+*.dex
+*.so
