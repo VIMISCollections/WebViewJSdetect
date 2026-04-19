@@ -25,6 +25,7 @@ logs/
 
 # Extracted APK contents
 extracted/
+extracted_apks/
 
 # Temporary files
 tmp_env/
