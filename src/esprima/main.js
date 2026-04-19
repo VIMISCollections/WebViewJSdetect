@@ -3179,7 +3179,7 @@ function analyze(filePath, parentNodeId) {
             let location = u.lineLocStart ? [u.lineLocStart, u.colLocStart || '', u.lineLocEnd || u.lineLocStart, u.colLocEnd || ''].join(':') : '';
             nodesStream.push([i, label, u.phptype || u.type, u.phpflag || '',
                 u.lineLocStart !== null ? u.lineLocStart : '', quote(u.code), childNum, u.funcId || '',
-                '', location, u.lineLocEnd !== null ? u.lineLocEnd : '', u.name || '', quote(u.comment, 1)
+                '', location, u.lineLocEnd !== null ? u.lineLocEnd : '', (u.name || '').replace(/\\/g, '/'), quote(u.comment, 1)
             ].join(delimiter) + '\n');
         } else if (outputStyle == 'c') {
             if (i == 0) continue;
