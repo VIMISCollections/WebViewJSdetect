@@ -23,7 +23,13 @@ crx_record.log
 
 # Analysis output
 extracted/
+extracted_apks/
+run_logs/
+run_results/
+benchmark_apps/
+external_src/
 results_tmp.log
+*.xls
 
 # IDE
 .idea/
@@ -33,6 +39,11 @@ results_tmp.log
 # OS
 .DS_Store
 Thumbs.db
+
+# Temporary/runtime files
+*.tmp
+*.swp
+*.swo
 
 # Claude
 .claude/settings.local.json
