@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node.js
+node_modules/
+src/esprima/node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# Claude Code
+.claude/
+
+# Tool output / logs
+extracted/
+extracted_apks/
+extracted$app/
+run_results/
+*.log
+results_tmp.log
+
+# Generated during analysis
+opgen_generated_files/
