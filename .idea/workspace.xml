@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9daa71f6-2033-4bc6-95a4-c4e9d78fab59" name="Changes" comment="Ran the Tools with APK with Github Copilot">
+      <change afterPath="$PROJECT_DIR$/Vivek Extraction List.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="9e9c385e-8ca0-4946-b0a4-73e8c379c5d1" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="9e9c385e-8ca0-4946-b0a4-73e8c379c5d1" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Projects/School_Projects/Tools/WebViewJSdetect" value="3CO9q8hJQfDXHMzzF73NpkIN1Ai" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedChatMode">
+    <option name="chatModeId" value="Agent" />
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vimis22&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VIMISCollections/WebViewJSdetect.git&quot;,
+    &quot;accountId&quot;: &quot;72c2f6c0-8a5c-4f81-ae75-a3292b01c0f6&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.689390572795264" />
+      <entry key="MS500" value="2.5982048183950894" />
+      <entry key="S2" value="4.066072919112862" />
+      <entry key="S5" value="7.861808523614539" />
+      <entry key="S10" value="11.191788673898662" />
+      <entry key="S30" value="14.690768504837257" />
+      <entry key="S60" value="15.79080761517649" />
+      <entry key="M2" value="16.38107955971764" />
+      <entry key="M5" value="16.74890338805732" />
+      <entry key="M10" value="16.88232409507284" />
+      <entry key="M15" value="17.201719657655826" />
+      <entry key="M30" value="30.942951920469852" />
+      <entry key="H1" value="140.2219410054652" />
+      <entry key="H2" value="413.7911683096464" />
+      <entry key="H4" value="746.3232876894062" />
+      <entry key="D1" value="1244.325301992814" />
+      <entry key="W1" value="1360.5391586393202" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.643194098740988" />
+      <entry key="MS500" value="2.5837831175285633" />
+      <entry key="S2" value="4.03597735903057" />
+      <entry key="S5" value="7.810689213727862" />
+      <entry key="S10" value="11.149111947175657" />
+      <entry key="S30" value="14.670647417430823" />
+      <entry key="S60" value="15.779830327303388" />
+      <entry key="M2" value="16.375345876853245" />
+      <entry key="M5" value="16.74654896347818" />
+      <entry key="M10" value="16.88113648178314" />
+      <entry key="M15" value="17.200924234627603" />
+      <entry key="M30" value="30.942514630477564" />
+      <entry key="H1" value="140.22155655888184" />
+      <entry key="H2" value="413.7907628790409" />
+      <entry key="H4" value="746.322954516273" />
+      <entry key="D1" value="1244.3252138853568" />
+      <entry key="W1" value="1360.5391449673834" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CO9q8hJQfDXHMzzF73NpkIN1Ai" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;C:\\Users\\vivek\\AppData\\Roaming\\JetBrains\\IntelliJIdea2026.1\\plugins\\Shell Script\\shellcheck.exe&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/School_Projects/Tools/WebViewJSdetect&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\School_Projects\Tools\WebViewJSdetect" />
+      <recent name="C:\Projects\School_Projects\Tools\WebViewJSdetect\benchmark_apps" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9daa71f6-2033-4bc6-95a4-c4e9d78fab59" name="Changes" comment="" />
+      <created>1776245938249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776245938249</updated>
+      <workItem from="1776245941064" duration="17000" />
+      <workItem from="1776325049643" duration="981000" />
+      <workItem from="1776326064983" duration="6458000" />
+      <workItem from="1776347516641" duration="2956000" />
+      <workItem from="1776357969170" duration="102000" />
+      <workItem from="1776525635393" duration="371000" />
+      <workItem from="1776526063133" duration="225000" />
+      <workItem from="1776526316924" duration="15000" />
+      <workItem from="1776543832999" duration="2390000" />
+      <workItem from="1776586086251" duration="3390000" />
+      <workItem from="1776598906322" duration="229000" />
+      <workItem from="1776794647949" duration="4111000" />
+      <workItem from="1776800944657" duration="3919000" />
+      <workItem from="1776878961902" duration="25000" />
+      <workItem from="1776976593169" duration="1162000" />
+      <workItem from="1776977773357" duration="228000" />
+      <workItem from="1777014517764" duration="1255000" />
+      <workItem from="1777916851966" duration="200000" />
+      <workItem from="1777917097132" duration="7898000" />
+      <workItem from="1777967780583" duration="445000" />
+      <workItem from="1778825282511" duration="836000" />
+      <workItem from="1778968978499" duration="3067000" />
+      <workItem from="1779005549089" duration="2865000" />
+      <workItem from="1779213677080" duration="7205000" />
+      <workItem from="1779226165730" duration="627000" />
+      <workItem from="1779371918014" duration="1111000" />
+      <workItem from="1779374120419" duration="1461000" />
+      <workItem from="1779398083934" duration="816000" />
+      <workItem from="1779459909862" duration="16000" />
+      <workItem from="1779461524510" duration="3358000" />
+      <workItem from="1779620513547" duration="7000" />
+      <workItem from="1779623527379" duration="1232000" />
+      <workItem from="1779632097873" duration="1408000" />
+      <workItem from="1779741613222" duration="4206000" />
+      <workItem from="1779796434046" duration="1958000" />
+      <workItem from="1779806234483" duration="4914000" />
+      <workItem from="1779820899603" duration="4773000" />
+      <workItem from="1779880992363" duration="4684000" />
+      <workItem from="1780069215615" duration="1456000" />
+      <workItem from="1780074206942" duration="19000" />
+      <workItem from="1781680111481" duration="9000" />
+      <workItem from="1781680431963" duration="2668000" />
+      <workItem from="1781690138198" duration="7841000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ran the Tools with APK with Github Copilot">
+      <option name="closed" value="true" />
+      <created>1776800987968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776800987968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ran the Tools with APK with Github Copilot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ran the Tools with APK with Github Copilot" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

@@ -1,0 +1,165 @@
+analysis starts
+2026-04-21 21:36:40.387655
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted\HybridAPIArgNum\assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776800200.5246928----test_graph starts
+1776800202.584072----tainted detected!~~~in extension: extracted\HybridAPIArgNum\assets with bridge_sendName_sink
+(['1482'], 'webview_name_source')
+from webview_name_source to bridge_sendName_sink
+==========================
+
+~~taint detected
+extracted\HybridAPIArgNum\assets finish within 2.340864896774292 seconds#### with code_cov 75.0% stmt covered####
+
+analysis starts
+2026-04-21 22:28:18.319657
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted/HybridAPIArgNum/assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776803298.4325788----test_graph starts
+1776803301.0012596----tainted detected!~~~in extension: extracted/HybridAPIArgNum/assets with bridge_sendName_sink
+(['1482'], 'webview_name_source')
+from webview_name_source to bridge_sendName_sink
+==========================
+
+~~taint detected
+extracted/HybridAPIArgNum/assets finish within 2.899848699569702 seconds#### with code_cov 75.0% stmt covered####
+
+analysis starts
+2026-04-23 22:39:30.146888
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted/HybridAPIArgNum/assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776976770.2736926----test_graph starts
+1776976772.9697008----tainted detected!~~~in extension: extracted/HybridAPIArgNum/assets with bridge_sendName_sink
+(['1482'], 'webview_name_source')
+from webview_name_source to bridge_sendName_sink
+==========================
+
+~~taint detected
+extracted/HybridAPIArgNum/assets finish within 3.0104310512542725 seconds#### with code_cov 75.0% stmt covered####
+

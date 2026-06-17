@@ -1,0 +1,373 @@
+analysis starts
+2026-04-21 21:36:29.956508
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted\HelloHybrid\assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776800190.092571----test_graph starts
+1776800192.3574362----tainted detected!~~~in extension: extracted\HelloHybrid\assets with bridge_sendName_sink
+(['1493', '1870'], 'webview_name_source')
+from webview_name_source to bridge_sendName_sink
+==========================
+$FilePath$extracted/HelloHybrid/assets/opgen_generated_files/combined.js
+Line 37			bridge.sendName(name+" Sungho");
+	bridge.sendName(name+" Sungho")
+
+~~taint detected
+extracted\HelloHybrid\assets finish within 2.4517829418182373 seconds#### with code_cov 72.72727272727273% stmt covered####
+
+analysis starts
+2026-04-21 22:25:31.392435
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted/HelloHybrid/assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776803131.500799----test_graph starts
+extracted/HelloHybrid/assets finish within 0.894768238067627 seconds#### with code_cov 100.0% stmt covered####
+
+nothing detectedanalysis starts
+2026-04-21 22:25:40.391054
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted\HelloHybrid\assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776803140.4893665----test_graph starts
+extracted\HelloHybrid\assets finish within 0.8760313987731934 seconds#### with code_cov 100.0% stmt covered####
+
+nothing detectedanalysis starts
+2026-04-21 22:27:10.358896
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted\HelloHybrid\assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776803230.4740942----test_graph starts
+extracted\HelloHybrid\assets finish within 2.610128879547119 seconds#### with code_cov 72.72727272727273% stmt covered####
+
+nothing detectedanalysis starts
+2026-04-21 22:27:50.860029
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted\HelloHybrid\assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776803270.9710562----test_graph starts
+1776803273.845333----tainted detected!~~~in extension: extracted\HelloHybrid\assets with bridge_sendName_sink
+(['1493', '1870'], 'webview_name_source')
+from webview_name_source to bridge_sendName_sink
+==========================
+$FilePath$extractedHelloHybridassetsopgen_generated_filescombined.js
+
+~~taint detected
+extracted\HelloHybrid\assets finish within 2.998579740524292 seconds#### with code_cov 72.72727272727273% stmt covered####
+
+analysis starts
+2026-04-21 22:28:15.011959
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted/HelloHybrid/assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776803295.1272228----test_graph starts
+1776803297.8407366----tainted detected!~~~in extension: extracted/HelloHybrid/assets with bridge_sendName_sink
+(['1493', '1870'], 'webview_name_source')
+from webview_name_source to bridge_sendName_sink
+==========================
+$FilePath$extractedHelloHybridassetsopgen_generated_filescombined.js
+
+~~taint detected
+extracted/HelloHybrid/assets finish within 2.8382856845855713 seconds#### with code_cov 72.72727272727273% stmt covered####
+
+analysis starts
+2026-04-23 22:39:26.561773
+All args:
+print: False
+vul_type: chrome_ext
+prototype_pollution: False
+module: False
+exit: False
+single_branch: False
+run_all: False
+function_timeout: None
+timeout: None
+call_limit: 3
+entry_func: None
+list: None
+install: False
+run_env: ./tmp_env/
+no_file_based: False
+parallel: None
+auto_type: False
+export: None
+nodejs: False
+gc: False
+babel: None
+input_file: extracted/HelloHybrid/assets
+chrome_extension: True
+run_with_pq: True
+obj_traceback: False
+dx: False
+easy_test: False
+package_path: demos/
+autostop: False
+no_merge: False
+thread_stmt: False
+all_branch: False
+war: False
+measure_thread: False
+measure_code_cov_progress: False
+time_slice: 0.1
+seq_timeout: 20
+policy: 1
+alpha: 0.2
+beta: 0.8
+gamma: 1
+ablation_mode: CoCo-single
+code_progress_html: False
+1776976766.694654----test_graph starts
+1776976769.5294635----tainted detected!~~~in extension: extracted/HelloHybrid/assets with bridge_sendName_sink
+(['1493', '1870'], 'webview_name_source')
+from webview_name_source to bridge_sendName_sink
+==========================
+$FilePath$extractedHelloHybridassetsopgen_generated_filescombined.js
+
+~~taint detected
+extracted/HelloHybrid/assets finish within 2.9304397106170654 seconds#### with code_cov 72.72727272727273% stmt covered####
+

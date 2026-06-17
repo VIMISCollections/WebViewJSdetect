@@ -1,0 +1,8 @@
+process chrome extension:  extracted\HelloScript_test\assets
+new instance
+admin threads
+G.file_stackextracted/HelloScript_test/assets/opgen_generated_files/combined.js
+
+finish
+========SEE eventRegisteredFuncs:========
+========DO ATTACK:========
